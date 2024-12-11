@@ -1,4 +1,3 @@
-"# calcul" 
 var sept = document.getElementById('sept')
 var huit = document.getElementById('huit')
 var neuf = document.getElementById('neuf')
@@ -96,3 +95,4 @@ soustraction.addEventListener("click",()=>{
     calcul.textContent=""
     operateur = "-"
 })
+    
